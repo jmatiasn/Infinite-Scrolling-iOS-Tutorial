@@ -1,2 +1,2 @@
-# UITableView-Infinite-Scrolling-Tutorial
-UITableView Infinite Scrolling Tutorial
+# Infinite-Scrolling-iOS-Tutorial
+Practicing with the UITableView Infinite Scrolling Tutorial by Ray Wenderlich
